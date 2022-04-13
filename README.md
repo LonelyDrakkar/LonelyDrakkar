@@ -10,9 +10,9 @@ class LonelyDrakkar extends Human{
     this.age = 20;
     this.nationality = 'Chilean';
     this.residence = 'Chile';
-    this.pronouns = 'he' | 'him';
+    this.pronouns = 'he' || 'him';
     this.higherEducation = 'Aircraft Maintenance Technician - Last year';
-    this.currentOccupation: 'Last year student open for job opportunities';
+    this.currentOccupation = 'Last year student open for job opportunities';
     this.lookingForJob = true;
     this.workingHours = 'Full time';
   }
