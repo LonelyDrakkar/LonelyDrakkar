@@ -1,6 +1,6 @@
 ### Hello you! 🌎
 
-## This is Mario Jaque. ✈️
+## This is Mario Jaque - Introducing myself. ✈️
 
 ```js
 class LonelyDrakkar extends Human{
@@ -57,3 +57,6 @@ class LonelyDrakkar extends Human{
 
 const AboutMe = new LonelyDrakkar();
 ```
+
+## My github stats:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LonelyDrakkar)](https://github.com/anuraghazra/github-readme-stats)
