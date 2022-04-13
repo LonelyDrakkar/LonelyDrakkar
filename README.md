@@ -8,9 +8,9 @@ export default class LonelyDrakkar extends Component{
     super();
     this.state = {
       studying: true,
-      looking-for-a-job: true,
-      working-hours: 'Full time',
-      ready-to-learn-more: true,
+      lookingForAJob: true,
+      workingHours: 'Full time',
+      readyToLearnMore: true,
     }
     
     render(){
